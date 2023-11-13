@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@300;400;500;600;700;800&display=swap');
+
+
+
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.5;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+.result_col{
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#6541fd+0,322beb+100 */
+    background: linear-gradient(to bottom,  #6541fd 0%,#322beb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+.result_col h4{
+    color: hsl(241, 100%, 89%);
+}
+.result_summary p{
+    color: hsl(241, 100%, 89%);
+}
+.result_out_of{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#4a23ca+0,4533eb+100 */
+    background: linear-gradient(to bottom,  #4a23ca 0%,#4533eb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
